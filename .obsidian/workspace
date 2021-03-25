@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Untitled.md",
+            "file": "_notes/Testing how this works.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Untitled.md",
+            "file": "_notes/Testing how this works.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Untitled.md",
+                "file": "_notes/Testing how this works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,8 @@
   },
   "lastOpenFiles": [
     "_notes/Untitled.md",
-    "_notes/How to use the special features.md",
     "_notes/How-to-setup-this-site.md",
+    "_notes/How to use the special features.md",
     "_notes/how-markdown-is-rendered.md",
     "about.md"
   ]

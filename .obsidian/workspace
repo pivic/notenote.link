@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "5a69045ab0edb3d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2646beb2d40874e2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "about.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a485b49a9e0a5e45",
+    "type": "split",
+    "children": [
+      {
+        "id": "b684f462e9d2ec3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0dd77adf0ff1f8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "665eb3fcfe96f298",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53ad639b9377952c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c499014b0ec3608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15dd7a13cca7291f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "about.md"
+  ]
+}
